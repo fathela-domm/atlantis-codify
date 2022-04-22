@@ -1,0 +1,19 @@
+@import "../Home/home.component.css";
+
+.file-input-fab{
+    position:relative;
+    bottom: 20px;
+    left: -25px;
+    z-index: 9;
+}
+
+.profile{
+    width: 100%;
+    margin: auto;
+}
+
+@media screen and(min-width: 500px){
+    .profile{
+        width: 40%;
+    }
+}

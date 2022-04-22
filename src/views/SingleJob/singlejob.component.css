@@ -1,0 +1,11 @@
+.chat-widget-container {
+    z-index: 100000;
+}
+
+.sc-user-input--button {
+    visibility: hidden;
+}
+
+.sc-message--avatar {
+    width: 9px;
+}

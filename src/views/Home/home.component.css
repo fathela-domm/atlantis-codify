@@ -1,0 +1,19 @@
+.centered .ion-spinner {
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    zoom: 3.5;
+}
+
+.MuiPickersBasePicker-container {
+    zoom: .9;
+    width: 90%;
+    margin: auto;
+}
+
+.custom-ion-modal {
+    --background-image: url('../../assets/img/sidebar-3.jpg');
+}

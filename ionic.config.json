@@ -1,0 +1,7 @@
+{
+  "name": "codify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
